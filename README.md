@@ -30,3 +30,8 @@ If you would like to learn more about my projects or work, please feel free to g
 - GitHub: [GitHub Profile](https://github.com/Ferfias)
 
 Thank you and have a great day! 🌟
+# My GitHub Stats
+
+![Ferfias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferfias&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferfias&layout=compact&theme=radical)](https://github.com/Ferfias)
