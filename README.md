@@ -34,4 +34,4 @@ Thank you and have a great day! 🌟
 
 ![Ferfias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferfias&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferfias&layout=compact&theme=radical)](https://github.com/Ferfias)
+
