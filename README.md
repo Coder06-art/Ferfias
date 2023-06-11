@@ -1,14 +1,14 @@
-# Hi, My Name is Mert Durdu
+# Hi, My Name is Mert Durdu 👋
 
-## Front-end & React & Software Developer
+## Front-end & React & Software Developer 💻
 
 This README file is created to provide an overview of my projects on my GitHub profile. Here, you can find information about my projects, technologies, skills, and experiences.
 
-## About Me
+## About Me 🙋‍♂️
 
 I am a software developer with a focus on front-end and React technologies. I have experience in developing web applications and strive to create user-friendly, interactive, and visually appealing designs.
 
-## Technologies and Skills
+## Technologies and Skills 🔧
 
 Below are some of the technologies and skills I work with and have experience in:
 
@@ -21,7 +21,7 @@ Below are some of the technologies and skills I work with and have experience in
 - Database Management
 - Version Control (Git)
 
-## Contact
+## Contact 📞
 
 If you would like to learn more about my projects or work, please feel free to get in touch. You can reach me for collaboration, suggestions, or any questions using the following contact information:
 
@@ -29,4 +29,4 @@ If you would like to learn more about my projects or work, please feel free to g
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mert-durdu/)
 - GitHub: [GitHub Profile](https://github.com/Ferfias)
 
-Thank you and have a great day!
+Thank you and have a great day! 🌟
