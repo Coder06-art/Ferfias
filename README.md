@@ -26,7 +26,7 @@ Below are some of the technologies and skills I work with and have experience in
 If you would like to learn more about my projects or work, please feel free to get in touch. You can reach me for collaboration, suggestions, or any questions using the following contact information:
 
 - Email: ferfias06@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mert-durdu/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mert-durdu)
 - GitHub: [GitHub Profile](https://github.com/Ferfias)
 
 Thank you and have a great day! 🌟
