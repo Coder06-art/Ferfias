@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, My Name is Mert Durdu
 
-<!--
-**Ferfias/Ferfias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-end & React & Software Developer
 
-Here are some ideas to get you started:
+This README file is created to provide an overview of my projects on my GitHub profile. Here, you can find information about my projects, technologies, skills, and experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a software developer with a focus on front-end and React technologies. I have experience in developing web applications and strive to create user-friendly, interactive, and visually appealing designs.
+
+## Technologies and Skills
+
+Below are some of the technologies and skills I work with and have experience in:
+
+- HTML, CSS, and JavaScript
+- React.js and Redux
+- Responsive Web Design
+- UI/UX Design
+- SASS/SCSS
+- API Integration
+- Database Management
+- Version Control (Git)
+
+## Contact
+
+If you would like to learn more about my projects or work, please feel free to get in touch. You can reach me for collaboration, suggestions, or any questions using the following contact information:
+
+- Email: ferfias06@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mert-durdu/)
+- GitHub: [GitHub Profile](https://github.com/Ferfias)
+
+Thank you and have a great day!
